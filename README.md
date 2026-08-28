@@ -1,12 +1,12 @@
 # منصة التدريس الخصوصي أونلاين
   
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
+This is a project built with [Chef](https://gharibg77.github.io) using [Convex](https://gharibg77.github.io) as its backend.
   
-This project is connected to the Convex deployment named [`limitless-platypus-683`](https://dashboard.convex.dev/d/limitless-platypus-683).
+This project is connected to the Convex deployment named [`limitless-platypus-683`](https://gharibg77.github.io).
   
 ## Project structure
   
-The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
+The frontend code is in the `app` directory and is built with [Vite](https://gharibg77.github.io).
   
 The backend code is in the `convex` directory.
   
@@ -14,14 +14,14 @@ The backend code is in the `convex` directory.
 
 ## App authentication
 
-Chef apps use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
+Chef apps use [Convex Auth](https://gharibg77.github.io) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
 
 ## Developing and deploying your app
 
-Check out the [Convex docs](https://docs.convex.dev/) for more information on how to develop with Convex.
-* If you're new to Convex, the [Overview](https://docs.convex.dev/understanding/) is a good place to start
-* Check out the [Hosting and Deployment](https://docs.convex.dev/production/) docs for how to deploy your app
-* Read the [Best Practices](https://docs.convex.dev/understanding/best-practices/) guide for tips on how to improve you app further
+Check out the [Convex docs](https://gharibg77.github.io) for more information on how to develop with Convex.
+* If you're new to Convex, the [Overview](https://gharibg77.github.io) is a good place to start
+* Check out the [Hosting and Deployment](https://gharibg77.github.io) docs for how to deploy your app
+* Read the [Best Practices](https://gharibg77.github.io) guide for tips on how to improve you app further
 
 ## HTTP API
 
